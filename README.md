@@ -1,5 +1,6 @@
 # 💫About Me :
-I'm currently working on Web Development using techlogies React.js ,Node .js ,express .js html,css, bootstrap and javscript.
+I'm currently working on Web Development 
+Techlogies i am good at : React.js ,Node .js ,express .js html,css, bootstrap and javscript.
 Can Reach me: Nikhilsunny35@gmail.com
 
 ## 🌐Socials
